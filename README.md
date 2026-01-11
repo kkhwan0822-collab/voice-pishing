@@ -10,9 +10,8 @@
 ## 📊 Operational Flowchart (운영 프로세스)
 
 <p align="center">
-  <img src="./flowchart_real.png" width="50%">
+  <img src="./flowchart_real.png" width="40%">
 </p>
----
 
 ## 📑 Core Objectives (핵심 과제)
 본 프로젝트는 보이스피싱 범죄의 구조적 메커니즘을 규명하고, 실시간 대응 및 사후 방어 체계를 확립하는 데 초점을 맞춥니다.
