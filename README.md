@@ -1,4 +1,4 @@
-# 🛡️ Integrated Strategy for Voice Phishing Detection and Eradication
+# 🛡️ Voice Phishing Detection
 ### 보이스피싱 탐지 및 근절을 위한 통합 대응 체계 구축 프로젝트
 
 > **"지능화되는 금융 범죄의 고도화된 패턴을 분석하여, 사회적 자산과 개인의 안녕을 수호하기 위한 데이터 기반의 기술적 방벽을 구축합니다."**
