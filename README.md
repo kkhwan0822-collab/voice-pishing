@@ -28,12 +28,6 @@ to protect personal financial assets and minimize social damage.*
 <p align="center">
   <img src="./flowchart_real.png" width="60%">
 </p>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![KoBERT](https://img.shields.io/badge/KoBERT-NLP-blue?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -96,7 +90,23 @@ to protect personal financial assets and minimize social damage.*
     - 보이스피싱 확률 반환
 
 ---
+## 🧰 Tech Stack (사용 기술 및 시스템)
 
+### 🔹 AI / Data Processing
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![KoBERT](https://img.shields.io/badge/KoBERT-NLP-blue?style=for-the-badge)
+
+### 🔹 Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### 🔹 Mobile Application
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### 🔹 Collaboration & Deployment
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
 ## 🤖 AI Model Design (인공지능 모델 설계)
 
 ### 🔹 모델 파이프라인
