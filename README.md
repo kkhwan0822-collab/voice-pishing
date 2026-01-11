@@ -1,35 +1,50 @@
-# 📞 Voice Phishing Prevention: 보이스피싱 탐지 및 예방 프로젝트 🛡️
+네, 어떤 느낌을 원하시는지 확실히 이해했습니다. 신뢰감과 무게감을 주기 위해 화려한 이모지는 배제하고, 학술적이면서도 전문적인 용어를 사용하여 첫인상을 설계하겠습니다.
 
-> " 🚫 교묘해지는 목소리의 덫, 데이터와 기술로 소중한 자산을 지킵니다. 💎 "
+또한 Preview 섹션은 직접 만드신 Flowchart 이미지를 넣으실 수 있는 공간으로 깔끔하게 비워두겠습니다. 아래 내용을 그대로 복사해서 사용하세요.
+
+🏛️ 수정된 전문성 강조형 README.md
+Markdown
+
+# 🛡️ Integrated Strategy for Voice Phishing Detection and Eradication
+### 보이스피싱 탐지 및 근절을 위한 통합 대응 체계 구축 프로젝트
+
+> **"지능화되는 금융 범죄의 고도화된 패턴을 분석하여, 사회적 자산과 개인의 안녕을 수호하기 위한 데이터 기반의 기술적 방벽을 구축합니다."**
 >
-> *An intelligent system designed to detect and prevent voice phishing attacks.*
+> *An advanced analytical framework dedicated to the systematic identification, prevention, and neutralization of evolving voice phishing threats.*
 
 ---
 
-## 👀 Preview (미리보기)
+## 📊 Operational Flowchart (운영 프로세스)
 
-![보이스피싱 분석 화면](https://images.unsplash.com/photo-1563986768609-322da13575f3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
-> **Tip:** 실제 프로젝트 스크린샷이나 관련 이미지를 이 자리에 마우스로 끌어다 놓으세요! (Drag & Drop)
-
----
-
-## 📋 Project Overview (프로젝트 개요)
-이 프로젝트는 갈수록 지능화되는 보이스피싱의 패턴을 분석하고, 사용자가 위험을 미리 인지할 수 있도록 돕기 위해 개발되었습니다.
-
-### 🛠️ 주요 기능 (Main Features)
-* **실시간 탐지**: 통화 패턴 및 키워드 분석을 통한 위험 알림
-* **피해 사례 DB**: 최신 보이스피싱 시나리오 및 수법 공유
-* **대응 가이드**: 상황 발생 시 즉각적인 신고 및 대처 방법 안내
+![Flowchart](이곳에_플로우차트_이미지_파일을_드래그해서_넣으세요)
+> **Guide:** 발표 자료에서 준비하신 핵심 순서도(Flowchart) 이미지를 이 영역에 업로드해 주세요. 
 
 ---
 
-## 🏗️ Tech Stack (기술 스택)
-* **Language**: Python, JavaScript
-* **Analysis**: AI/Machine Learning (Natural Language Processing)
-* **Platform**: Android / iOS App
+## 📑 Core Objectives (핵심 과제)
+본 프로젝트는 보이스피싱 범죄의 구조적 메커니즘을 규명하고, 실시간 대응 및 사후 방어 체계를 확립하는 데 초점을 맞춥니다.
+
+### 1. 범죄 시나리오 및 패턴 정밀 분석
+* **수법의 구조화**: 지인 사칭, 공공기관 사칭 등 유형별 범죄 시나리오의 단계적 분석
+* **위험 지표 도출**: 통화 데이터 내 특정 키워드 및 빈도 분석을 통한 고위험군 식별 체계 마련
+
+### 2. 기술적 탐지 및 즉각 대응 체계
+* **실시간 모니터링**: 인공지능 및 데이터 분석 기술을 활용한 이상 징후 포착 및 경보 발령
+* **행동 차단 기제**: 심리적 지배를 차단하기 위한 시각적·청각적 즉각 알림 시스템 설계
+
+### 3. 사회적 공조 및 예방 인프라 구축
+* **기관 연동 프로세스**: 경찰청(112), 금융감독원(1332) 등 유관 기관과의 신속한 신고 및 피해 확산 방지 공조
+* **맞춤형 대응 매뉴얼**: 디지털 취약 계층을 위한 직관적이고 실질적인 예방 가이드라인 배포
 
 ---
 
-## 📞 Contact
-* **Issue Reporting**: [GitHub Issues](https://github.com/kkhwan0822-collab/voice-pishing/issues)
-* **Email**: your-email@example.com
+## 🏗️ Technical Specification
+* **Analysis Engine**: 통화 패턴 및 텍스트 마이닝 기반 분석
+* **Implementation**: 실시간 경보 알고리즘 및 대응 모듈
+* **Domain**: 금융 보안 및 모바일 네트워크 보안 솔루션
+
+---
+
+## 📞 Official Contact
+* **Project Maintainer**: [kkhwan0822-collab](https://github.com/kkhwan0822-collab)
+* **Inquiry**: 기술 협력 및 정책 제안은 [GitHub Issues]를 통해 공식 접수합니다.
