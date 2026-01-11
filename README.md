@@ -1,10 +1,3 @@
-네, 어떤 느낌을 원하시는지 확실히 이해했습니다. 신뢰감과 무게감을 주기 위해 화려한 이모지는 배제하고, 학술적이면서도 전문적인 용어를 사용하여 첫인상을 설계하겠습니다.
-
-또한 Preview 섹션은 직접 만드신 Flowchart 이미지를 넣으실 수 있는 공간으로 깔끔하게 비워두겠습니다. 아래 내용을 그대로 복사해서 사용하세요.
-
-🏛️ 수정된 전문성 강조형 README.md
-Markdown
-
 # 🛡️ Integrated Strategy for Voice Phishing Detection and Eradication
 ### 보이스피싱 탐지 및 근절을 위한 통합 대응 체계 구축 프로젝트
 
