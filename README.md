@@ -9,8 +9,9 @@
 
 ## 📊 Operational Flowchart (운영 프로세스)
 
-![플로우차트](https://github.com/user-attachments/assets/6d2af163-9825-4b7c-9cc8-6d71e8d1179f)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d2af163-9825-4b7c-9cc8-6d71e8d1179f" width="100%">
+</p>
 ---
 
 ## 📑 Core Objectives (핵심 과제)
