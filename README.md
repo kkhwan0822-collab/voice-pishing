@@ -10,7 +10,7 @@
 ## 📊 Operational Flowchart (운영 프로세스)
 
 <p align="center">
-  <img src="./flowchart.png" width="100%">
+  <img src="./image/flowchart.png" width="100%">
 </p>
 ---
 
