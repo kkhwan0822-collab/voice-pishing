@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="./flowchart.png" width="40%" style="display: block; margin-top: 0; margin-bottom: 0; float: left;">
-<div style="clear: both;"></div>
+  <div style="clear: both;"></div>
 </p>
 
 ## 📑 Core Objectives (핵심 과제)
